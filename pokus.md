@@ -2,6 +2,7 @@ Hlavní nadpis
 ==========
 
 Přidám změnu a dostanu novou verzi.
+Moje vlasstní první změna
 
 
 * toto
