@@ -1,2 +1,3 @@
 # git_tutorial
-Uvodni tutorial pro praci s gitem
+
+Tento repozitar slouzi pro nauceni se prace s gitem a githubem
