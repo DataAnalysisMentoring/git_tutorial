@@ -12,17 +12,17 @@ Kdybyste chtely googlit tak hledejte neco jako: "git conflict", "git resolve con
 
 # Testovaci odstavec 1. kolo
 
-Tady je testovaci odstavec na kterem si vyzkousite konflikt.
-Udelate to tak, ze si pullnete mastera, udelate si
-vlastni vetev a zacnete upravovat tento odstavecek.
+* Tady je testovaci odstavec na kterem si vyzkousite konflikt.
+Udelate to tak, ze si pullnete mastera _(tj. git pull origin master)_, udelate si
+vlastni vetev _(git checkout -b Newone)_ a zacnete upravovat **tento odstavecek**.
 Kazda si proste pohrejte s timto odstavcem, mente treba slova
-pridavejte slova. Klidne vety.
+pridavejte slona. ... tady mas slona ![tady mas slona](https://g.denik.cz/104/3e/thinkstockphotos-479667835_ng-detail-photo-p.jpg) ... Klidne vety !!! ... **Dlouháááá věta, tramtaradáááááááá :)**
 
-Pak udelate stejny postup jako pri minulem ukolu, pushnout do
+* Pak udelate stejny postup jako pri minulem ukolu, pushnout _(git push origin NewOne)_ do
 origin vetev. vytvorit PR a mergnout.
 
-Prvni z vas bude v klidu, druha bude mit konflikt, ktery bude muset
-vyresit.
+* Prvni z vas bude v klidu ... **jsem v klidu** ... druha bude mit konflikt, ktery bude muset
+vyresit ... **s chuti do toho :)**
 
 
 # Testovaci odstavec 2. kolo
