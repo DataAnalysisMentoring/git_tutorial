@@ -16,7 +16,7 @@ Kdybyste chtely googlit tak hledejte neco jako: "git conflict", "git resolve con
 Udelate to tak, ze si pullnete mastera _(tj. git pull origin master)_, udelate si
 vlastni vetev _(git checkout -b Newone)_ a zacnete upravovat **tento odstavecek**.
 Kazda si proste pohrejte s timto odstavcem, mente treba slova
-pridavejte slona. ... tady mas slona !(https://g.denik.cz/104/3e/thinkstockphotos-479667835_ng-detail-photo-p.jpg) ... Klidne vety !!! ... **Dlouháááá věta, tramtaradáááááááá :)**
+pridavejte slona. ... tady mas slona ![tady mas slona](https://g.denik.cz/104/3e/thinkstockphotos-479667835_ng-detail-photo-p.jpg) ... Klidne vety !!! ... **Dlouháááá věta, tramtaradáááááááá :)**
 
 * Pak udelate stejny postup jako pri minulem ukolu, pushnout _(git push origin NewOne)_ do
 origin vetev. vytvorit PR a mergnout.
