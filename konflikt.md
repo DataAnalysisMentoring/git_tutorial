@@ -1,4 +1,4 @@
-# Soubor pro test konfliktu
+﻿# Soubor pro test konfliktu
 
 Tento soubor existuje pro nauceni se prace s konfliktem.
 
@@ -31,6 +31,8 @@ Aby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi konflikt
 a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
 Uplne stejne, jen s timto odstavcem.
 Prohodte si poradi aby si to vyzkousela i druha.
+-chvilema nevim, co delam, tak snad to delam spravne a vzdycky budu. je to velka legrace, kdyz prsi zaby.
+https://www.google.cz/search?q=magnolia+movie&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjy5PySnMzaAhVRh6YKHXSBD8sQ_AUICigB&biw=1024&bih=492#imgrc=jryfw3rowUir3M:
 
 
 Veskere dotazy smerujte na hromadny email :). Budu odpovidat na nej,
