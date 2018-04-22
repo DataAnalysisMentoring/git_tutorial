@@ -31,6 +31,8 @@ vyresit ... **s chuti do toho :)**
 a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
 >Uplne stejne, jen s timto odstavcem.
 >Prohodte si poradi aby si to vyzkousela i druha.
+- zkouska cislo 2 - Radka ma delsi vedeni 
+
 ... tak jo, zkus9m popsat postup, jestli jsem to pochopila spravne.
 1. na _gitu_ visi soubor od Radky se zmenou ve druhem odstavci
 2. Radka na me poslala _pull request_
@@ -42,12 +44,14 @@ a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
 8. nejdriv budu muset _vyresit konflikt_ mezi nasimi zmenami, tedy vybrat, ktere zmeny ponechat a ktere odstranit
 9. pak znova _push_ ten vysledek na git
 
+
 Uplne stejne, jen s timto odstavcem.
 Prohodte si poradi aby si to vyzkousela i druha.
 
 -chvilema nevim, co delam, tak snad to delam spravne a vzdycky budu. je to velka legrace, kdyz prsi zaby.
 https://www.google.cz/search?q=magnolia+movie&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjy5PySnMzaAhVRh6YKHXSBD8sQ_AUICigB&biw=1024&bih=492#imgrc=jryfw3rowUir3M:
 
+Zkousim podruhe, zda umim vyresit konflikt. 
 
 
 Veskere dotazy smerujte na hromadny email :). Budu odpovidat na nej,
