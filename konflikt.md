@@ -27,12 +27,27 @@ vyresit ... **s chuti do toho :)**
 
 # Testovaci odstavec 2. kolo
 
-Aby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi konflikt
+>Aby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi **konflikt**
 a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
+>Uplne stejne, jen s timto odstavcem.
+>Prohodte si poradi aby si to vyzkousela i druha.
+... tak jo, zkus9m popsat postup, jestli jsem to pochopila spravne.
+1. na _gitu_ visi soubor od Radky se zmenou ve druhem odstavci
+2. Radka na me poslala _pull request_
+3. ja ho odsouhlasim do _master_ vetve
+4. ja udelam nejake zmeny ve druhem odstavci
+5. _push_ to na git 
+6. vytvorim _pull request_, ktery mi ale sdeli ze neni schopen udelat _automaticky merge_
+7. takze jsem si znovu udelala _pull origin master_ ktery mi pak zobrazil soubor s konflikty k vyreseni
+8. nejdriv budu muset _vyresit konflikt_ mezi nasimi zmenami, tedy vybrat, ktere zmeny ponechat a ktere odstranit
+9. pak znova _push_ ten vysledek na git
+
 Uplne stejne, jen s timto odstavcem.
 Prohodte si poradi aby si to vyzkousela i druha.
+
 -chvilema nevim, co delam, tak snad to delam spravne a vzdycky budu. je to velka legrace, kdyz prsi zaby.
 https://www.google.cz/search?q=magnolia+movie&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjy5PySnMzaAhVRh6YKHXSBD8sQ_AUICigB&biw=1024&bih=492#imgrc=jryfw3rowUir3M:
+
 
 
 Veskere dotazy smerujte na hromadny email :). Budu odpovidat na nej,
