@@ -26,6 +26,7 @@ vyresit ... **s chuti do toho :)**
 
 
 # Testovaci odstavec 2. kolo
+- ZAPISUJU DO TOHOTO SOUBORU, ABYCH VYVOLALA KONFLIKT
 
 >Aby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi **konflikt**
 a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
