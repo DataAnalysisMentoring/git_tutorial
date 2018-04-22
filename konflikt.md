@@ -27,10 +27,17 @@ vyresit ... **s chuti do toho :)**
 
 # Testovaci odstavec 2. kolo
 
-Aby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi konflikt
+>Aby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi **konflikt**
 a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
-Uplne stejne, jen s timto odstavcem.
-Prohodte si poradi aby si to vyzkousela i druha.
+>Uplne stejne, jen s timto odstavcem.
+>Prohodte si poradi aby si to vyzkousela i druha.
+... tak jo, zkus9m popsat postup, jestli jsem to pochopila spravne.
+1. na _gitu_ visi soubor od Radky se zmenou ve druhem odstavci
+2. Radka na me poslala _pull request_
+3. ja udelam nejake zmeny ve druhem odstavci
+4. _push to na git_ 
+5. nejdriv budu muset _vyresit konflikt_ mezi nasimi zmenami, tedy vybrat, ktere zmeny ponechat a ktere odstranit
+6. pak _odsouhlasim_ ten vysledek
 
 
 Veskere dotazy smerujte na hromadny email :). Budu odpovidat na nej,
