@@ -47,8 +47,8 @@ a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
 
 
 
-Uplne stejne, jen s timto odstavcem. Udelam druhou zmenu.
 
+Uplne stejne, jen s timto odstavcem. Pridam prvni zmenu. Udelam druhou zmenu.
 Prohodte si poradi aby si to vyzkousela i druha.
 
 -chvilema nevim, co delam, tak snad to delam spravne a vzdycky budu. je to velka legrace, kdyz prsi zaby.
