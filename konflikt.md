@@ -46,7 +46,9 @@ a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
 9. pak znova _push_ ten vysledek na git
 
 
-Uplne stejne, jen s timto odstavcem. Udelam druhou zmenu.
+
+Uplne stejne, jen s timto odstavcem. Pridam si prvni zmenu. Udelam druhou zmenu.
+
 Prohodte si poradi aby si to vyzkousela i druha.
 
 -chvilema nevim, co delam, tak snad to delam spravne a vzdycky budu. je to velka legrace, kdyz prsi zaby.
