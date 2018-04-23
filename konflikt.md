@@ -54,7 +54,8 @@ Prohodte si poradi aby si to vyzkousela i druha.
 -chvilema nevim, co delam, tak snad to delam spravne a vzdycky budu. je to velka legrace, kdyz prsi zaby.
 https://www.google.cz/search?q=magnolia+movie&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjy5PySnMzaAhVRh6YKHXSBD8sQ_AUICigB&biw=1024&bih=492#imgrc=jryfw3rowUir3M:
 
-RADKA: DELAM PRVNI ZMENU
+
+Zkousim podruhe, zda umim RESIT KONFLIKT A DRUHOU ZMENU!
 
 
 Veskere dotazy smerujte na hromadny email :). Budu odpovidat na nej,
