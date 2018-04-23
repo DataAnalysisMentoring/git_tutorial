@@ -27,7 +27,7 @@ vyresit ... **s chuti do toho :)**
 
 # Testovaci odstavec 2. kolo
 
->Aby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi **konflikt**
+>Editujeme soubory a zkousimeAby jste si to vyzkousely obe dve, tak po te co prvni z vas vyresi **konflikt**
 a uspesne dostane zmeny do masteru. Tak udelate druhe kolo.
 >Uplne stejne, jen s timto odstavcem.
 >Prohodte si poradi aby si to vyzkousela i druha.
